@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+.idea
+target
+.allure
+
+*.iml
+*.war
+*.jar
+*.log
